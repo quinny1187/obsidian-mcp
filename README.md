@@ -2,6 +2,10 @@
 
 Direct file system access to Obsidian vaults through Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/@quinny1187/obsidian-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@quinny1187/obsidian-mcp/badge" alt="Obsidian Server MCP server" />
+</a>
+
 ## Features
 
 - **Direct vault access** - No plugins or REST API required
